@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @b-ruthvik
 - 👀 I’m interested in Data Science and Data Analyitics
-- 🌱 I’m currently learning about the power of Information
+- 🌱 I’m currently learning about the power of Information Management at UIUC (Graduate Student)
 - 📫 How to reach me rbonth2@illinois.edu
 
 <!---
